@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swansthya-hostpital-project/static/css/main.0489022a.css",
+    "main.js": "/swansthya-hostpital-project/static/js/main.876c6e3f.js",
+    "static/js/453.6c45fe58.chunk.js": "/swansthya-hostpital-project/static/js/453.6c45fe58.chunk.js",
+    "index.html": "/swansthya-hostpital-project/index.html",
+    "main.0489022a.css.map": "/swansthya-hostpital-project/static/css/main.0489022a.css.map",
+    "main.876c6e3f.js.map": "/swansthya-hostpital-project/static/js/main.876c6e3f.js.map",
+    "453.6c45fe58.chunk.js.map": "/swansthya-hostpital-project/static/js/453.6c45fe58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0489022a.css",
+    "static/js/main.876c6e3f.js"
+  ]
+}
