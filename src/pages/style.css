@@ -1,0 +1,28 @@
+.color-format-back{
+    background-color:#396cf0;
+}
+.color-format-text{
+    color:#396cf0;
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+}
+.nav-item{
+    margin-top: 10px;
+}
+.dropdown-menu{
+    display: none !important;
+}
+.nav-item:hover .dropdown-menu{
+    display: inline-block !important;
+}
+.doctor_img{
+    height: 200px;
+    width: 160px
+}
+
+/* Hover  */
+.card-body:hover{
+   transform: scale(1.05);
+}
